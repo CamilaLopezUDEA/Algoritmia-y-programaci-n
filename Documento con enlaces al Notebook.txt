@@ -1,0 +1,4 @@
+Enlace al código de colab: https://colab.research.google.com/drive/1EC-MsJYjg7eUrDBFxD76-8kf4dPI-XR2?usp=sharing
+Enlace a la carpeta con los archivos generados por el programa y los archivos usados para ejecutarlo: https://drive.google.com/drive/folders/1ekaQxsnI2fBJswglf4pkVxr7yZK9B_RM?usp=sharing
+
+Se otogó acceso a la cuenta de Google: hugo.mercado@udea.edu.co
